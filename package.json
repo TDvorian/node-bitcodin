@@ -1,0 +1,30 @@
+{
+  "name": "node-bitcodin",
+  "version": "0.1.0",
+  "description": " community node.js callback-based module for bitcodin.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TDvorian/node-bitcodin.git"
+  },
+  "keywords": [
+    "bitcodin",
+    "video",
+    "mpeg-dash",
+    "hls",
+    "api"
+  ],
+  "author": "Taras Dvorian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TDvorian/node-bitcodin/issues"
+  },
+  "homepage": "https://github.com/TDvorian/node-bitcodin#readme",
+  "dependencies": {
+    "request": "^2.69.0",
+    "underscore": "^1.8.3"
+  }
+}
