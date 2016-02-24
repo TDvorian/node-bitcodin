@@ -61,7 +61,7 @@ More info see:   [bitcodin cloud transcoding system](http://www.bitcodin.com)
                     "type": "s3",
                     "bucket": "THIS_IS_MY_S3_BUCKET",
                     "region": "THIS_IS_MY_S3_REGION",
-                   "prefix": "THIS_IS_MY_FOLDER",
+                    "prefix": "THIS_IS_MY_FOLDER",
                     "makePublic": false
                 }, function (err, result) {
                     if (err) {
