@@ -10,7 +10,7 @@ Simple callback-based module for bitcodin.com REST-API
 ## Super simple to use
 ### install:
 ```sh
-$ npm i node-bitcodinv --save
+$ npm i node-bitcodin --save
 ```
 ### init:
 
