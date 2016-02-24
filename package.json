@@ -1,6 +1,6 @@
 {
   "name": "node-bitcodin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": " community node.js callback-based module for bitcodin.com",
   "main": "index.js",
   "scripts": {
