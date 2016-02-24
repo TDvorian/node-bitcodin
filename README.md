@@ -1,4 +1,7 @@
 # node-bitcodin
+
+[![NPM](https://nodei.co/npm/node-bitcodin.png)](https://nodei.co/npm/node-bitcodin/)
+
  community node.js callback-based module for bitcodin.com
 
 Simple callback-based module for bitcodin.com REST-API
