@@ -1,1 +1,1 @@
-require('lib/bitcodin');
+module.exports = exports = require('lib/bitcodin');
