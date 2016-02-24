@@ -89,7 +89,7 @@ More info see:   [bitcodin cloud transcoding system](http://www.bitcodin.com)
 
                 });
 ```
-### createJob
+### jobStatus
 ```javascript
    bitcodinClient.jobStatus(THIS_IS_MY_JOB_ID, function (err, result) {
                     if (err) {
